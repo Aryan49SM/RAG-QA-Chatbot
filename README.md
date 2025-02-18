@@ -12,6 +12,13 @@ This Streamlit application allows users to upload PDF files and interactively qu
 
 ## Installation
 
+### Clone the repository:
+
+```bash
+git clone https://github.com/Aryan49SM/RAG-QA-Chatbot.git
+cd RAG-QA-Chatbot
+```
+
 ### Prerequisites
 
 1. Python 3.8+
